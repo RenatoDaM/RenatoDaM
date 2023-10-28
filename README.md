@@ -13,7 +13,6 @@
 </p>
   https://github.com/ServeRest/ServeRest
 
-
 ## Tecnologias
 
 ### Backend
