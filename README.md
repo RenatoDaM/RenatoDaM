@@ -24,7 +24,7 @@
 
 ![AWS Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
 
-### Outras ferramentas que possuo experiência (testes, organização, scrum, etc.)
+### Outras ferramentas que possuo experiência (testes, organização, scrum, containerização, etc.)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
