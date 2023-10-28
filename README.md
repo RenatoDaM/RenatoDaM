@@ -1,4 +1,4 @@
-### Opa 👋, tudo bem?
+## Opa 👋, tudo bem?
 
 ## Sobre mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim - Arthur de Azevedo.
