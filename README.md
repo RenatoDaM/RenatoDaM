@@ -7,11 +7,12 @@
 
 ## Projetos que já contribui
 <p align="left">
-  <div>
+  <a href="https://github.com/ServeRest/ServeRest">
  <img alt="Logo do ServeRest" src="https://user-images.githubusercontent.com/29241659/115161869-6a017e80-a076-11eb-9bbe-c391eff410db.png" height="120">
-  </div>
+  </a>
+
 </p>
-  https://github.com/ServeRest/ServeRest
+  
 
 ## Tecnologias
 
