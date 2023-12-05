@@ -1,6 +1,5 @@
-## Opa 👋, tudo bem?
+## Opa 👋, tudo bem? <br> Sobre mim
 
-## Sobre mim
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim - Arthur de Azevedo.
 - 🔭 Atualmente focado em Java e o ecosistema Spring, porém também possuo conhecimento em NodeJS.
 - 👯 Atualmente trabalho como desenvolvedor fullstack na SaqPay
