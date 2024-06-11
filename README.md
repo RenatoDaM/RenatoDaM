@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Fatec de Mogi Mirim - Arthur de Azevedo.
 - 🔭 Atualmente focado em Java e o ecosistema Spring, porém também possuo conhecimento em NodeJS.
-- 👯 Atualmente trabalho como desenvolvedor fullstack na SaqPay
+- 👯 Atualmente trabalho como QA na Compass Uol
 
 ## Projetos que já contribui
 <p align="left">
